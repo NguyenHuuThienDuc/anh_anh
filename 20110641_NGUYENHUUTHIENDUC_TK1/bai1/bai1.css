@@ -1,0 +1,15 @@
+#bai1{
+    display: flex; 
+    justify-content: center;
+}
+
+#chu{
+    font-size: large;
+}
+
+#dinhdang{
+    background: black;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+#dinhdang{
+    max-width: 960px;
+    margin: 0px auto;
+}
+
+#text{
+    font-size: large;
+}
+
+#docthem{
+    max-width: 90px;
+    background: rgb(4, 19, 22);
+    color: rgb(156, 185, 211);
+    padding: 20px;
+    text-align: center;
+}

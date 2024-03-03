@@ -1,0 +1,12 @@
+#bai2{
+    display: flex; 
+    justify-content: center;
+}
+
+#dinhdang{
+    max-width: 400px;
+    background: rgb(15, 75, 202);
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}

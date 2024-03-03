@@ -1,0 +1,17 @@
+#bai4{
+    max-width: 900px;
+    margin: 0px auto ;
+    padding: 1px;
+    background: rgb(183, 184, 181);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: xx-small;
+}
+
+#button{
+    text-align: center;
+    padding: 10px;
+    font-size: xx-small;
+    background: rgb(56, 56, 99);
+    color: rgb(154, 196, 233);
+}
